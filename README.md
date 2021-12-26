@@ -8,6 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
+https://mikeydgithub.github.io/run-buddy/
 
 
 ## Contribution
